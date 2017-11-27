@@ -66,7 +66,7 @@ def start_turtle():
 			if conn is not None:
 				send_target_commands(conn)
 		else:
-			print('Commmand not recognized')
+			print('Sorry! Commmand not recognized')
 
 
 # displays all current connections
